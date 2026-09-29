@@ -1,0 +1,10 @@
+1790705148s 1 https://dandiarchive.s3.amazonaws.com/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/processing/behavior/corneal_reflection_tracking/cr_is_bad_frame/data/.zattrs?versionId=4.PdD0nf52y5EBDy5ONhiHcrG.ZllAU2
+1790705148s 1 https://api.dandiarchive.org/api/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/files?prefix=processing%2Fbehavior%2Fcorneal_reflection_tracking%2Fcr_is_bad_frame%2Fdata%2F.zattrs&download=true
+1790705148s 1 https://dandiarchive.s3.amazonaws.com/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/processing/behavior/eye_tracking/eye_is_bad_frame/data/.zattrs?versionId=50yeNMzQLE1rmoNm7fLmJAS1MpxkLGrG
+1790705148s 1 https://api.dandiarchive.org/api/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/files?prefix=processing%2Fbehavior%2Feye_tracking%2Feye_is_bad_frame%2Fdata%2F.zattrs&download=true
+1790705149s 1 https://dandiarchive.s3.amazonaws.com/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/processing/behavior/facemap_motion_energy/behavior_is_keyframe_contaminated/data/.zattrs?versionId=9EnkEd399GwQEo7GMgW8JCXvUhksAcee
+1790705149s 1 https://api.dandiarchive.org/api/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fbehavior_is_keyframe_contaminated%2Fdata%2F.zattrs&download=true
+1790705149s 1 https://dandiarchive.s3.amazonaws.com/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/processing/behavior/facemap_motion_energy/face_is_keyframe_contaminated/data/.zattrs?versionId=CiprYiBv0juAQps1D27ySM6uglRJxkR9
+1790705149s 1 https://api.dandiarchive.org/api/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fface_is_keyframe_contaminated%2Fdata%2F.zattrs&download=true
+1790705150s 1 https://dandiarchive.s3.amazonaws.com/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/processing/behavior/pupil_tracking/pupil_is_bad_frame/data/.zattrs?versionId=iWTC4AD8ZrIwFBa5ZcIkM0Xx.cLzK0qK
+1790705150s 1 https://api.dandiarchive.org/api/zarr/dacec43a-a66c-4751-a03d-3c6aa24480f5/files?prefix=processing%2Fbehavior%2Fpupil_tracking%2Fpupil_is_bad_frame%2Fdata%2F.zattrs&download=true
